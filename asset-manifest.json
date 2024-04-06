@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Clamio_2.0/static/css/main.2007ceaf.css",
-    "main.js": "/Clamio_2.0/static/js/main.6e7c8fae.js",
+    "main.css": "/Clamio_2.0/static/css/main.e7ad3419.css",
+    "main.js": "/Clamio_2.0/static/js/main.8dd073a4.js",
     "static/js/453.4ccf0a13.chunk.js": "/Clamio_2.0/static/js/453.4ccf0a13.chunk.js",
     "index.html": "/Clamio_2.0/index.html",
-    "main.2007ceaf.css.map": "/Clamio_2.0/static/css/main.2007ceaf.css.map",
-    "main.6e7c8fae.js.map": "/Clamio_2.0/static/js/main.6e7c8fae.js.map",
+    "main.e7ad3419.css.map": "/Clamio_2.0/static/css/main.e7ad3419.css.map",
+    "main.8dd073a4.js.map": "/Clamio_2.0/static/js/main.8dd073a4.js.map",
     "453.4ccf0a13.chunk.js.map": "/Clamio_2.0/static/js/453.4ccf0a13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2007ceaf.css",
-    "static/js/main.6e7c8fae.js"
+    "static/css/main.e7ad3419.css",
+    "static/js/main.8dd073a4.js"
   ]
 }
